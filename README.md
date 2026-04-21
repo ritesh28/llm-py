@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ritesh28/llm-py" target="_blank">
-    <img data-source="github" loading="lazy" alt="Design Patterns" src="https://github.com/ritesh28/llm-py/raw/main/banner.png" width="750"/>
+    <img data-source="github" loading="lazy" alt="LLM" src="https://github.com/ritesh28/llm-py/raw/main/banner.png" width="750"/>
   </a>
 </p>
 
