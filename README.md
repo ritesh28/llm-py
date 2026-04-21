@@ -1,5 +1,11 @@
 # LLM-py
 
+<p align="center">
+  <a href="https://github.com/ritesh28/llm-py" target="_blank">
+    <img data-source="github" loading="lazy" alt="Design Patterns" src="https://github.com/ritesh28/llm-py/raw/main/banner.png" width="750"/>
+  </a>
+</p>
+
 A collection of Jupyter notebooks demonstrating various Large Language Model (LLM) applications and features.
 
 ## Description
@@ -15,6 +21,14 @@ Navigate to the `source/` directory and open any `.ipynb` file in Jupyter. Run t
 - Python 3.8+
 - Jupyter Notebook
 - API keys for respective services
+
+## Environment Variables
+
+Create a `.env` file in the root directory:
+
+```
+OPENAI_API_KEY=sk-proj-your-api-key-here  # Connect to OpenAI models for LLM operations
+```
 
 ## License
 
