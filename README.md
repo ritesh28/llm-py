@@ -1,10 +1,10 @@
-# LLM-py
-
 <p align="center">
   <a href="https://github.com/ritesh28/llm-py" target="_blank">
     <img data-source="github" loading="lazy" alt="Design Patterns" src="https://github.com/ritesh28/llm-py/raw/main/banner.png" width="750"/>
   </a>
 </p>
+
+# LLM-py
 
 A collection of Jupyter notebooks demonstrating various Large Language Model (LLM) applications and features.
 
